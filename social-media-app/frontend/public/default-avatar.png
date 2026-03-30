@@ -1,0 +1,8 @@
+# This is a placeholder file for the default avatar image
+# In a real application, you would place a default avatar PNG image here
+# For now, the application will handle missing images gracefully
+# 
+# To add a real default avatar:
+# 1. Create or download a default user avatar image (preferably 64x64px or 128x128px)
+# 2. Save it as default-avatar.png in this directory
+# 3. Make sure it's a PNG file with transparent background for best results
